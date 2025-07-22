@@ -1,6 +1,4 @@
-package miniproject2;
-
-
+package miniproject_2;
 import java.util.*;
 
 
@@ -98,7 +96,8 @@ class VideoStore {
     }
 }
 
-public class miniproject2; {
+public class oops_miniproject
+{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         VideoStore store = new VideoStore();
